@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### 🚀 Welcome to 🐻Xiong-bit Zone
+### 🚀 Welcome to 🐻xecho-dev Zone
 
 Here is some personal information about me:
 
