@@ -22,7 +22,3 @@ Here is some personal information about me:
 - 📖 I'm currently learning && using React.js/Vue.js...
 - 📫 How to reach me: 191272483@qq.com.
 - 💬 Wechat: Xecho777
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xiong-bit&layout=compact&theme=radical)
-![Xecho's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xiong-bit&show_icons=true&theme=radical)
